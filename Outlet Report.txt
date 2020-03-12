@@ -1,0 +1,28 @@
+Caveat:
+
+* Information is only from a 3 month timeframe
+** Information is only regarding desktop.
+
+USA Today:
+
+USA Today is mostly a male audience (64% vs. 36%). Ages 25-54 make up 59%. For the last 3 months it has had 128.8M monthly visits, 58.42M MUVs. 0.02% of referral visits come from Lifestyle sites, and most of that is Fashion and Apparel while on 2.35% of that is Beauty and Cosmetics. USA today directs people mostly to more News media sites, electronics or home and garden sites. Outgoing lifestyle sites account for only 0.52% of total outgoing links, most being fashion and apparel links, only 5.57% being beauty and cosmetics. 
+
+Buzzfeed:
+
+Buzzfeed is mostly a female audience (55% vs. 45%). Ages 25-54 make up 60% of their audience. News, Food and drink, and lifestyle make up ~22% of the audience interest while 70% is labeled "other". Under lifestyle, ~50% of the audience is interested in fashion and apparel, while ~35% is interested in Beauty and Cosmetics. Under Shopping most are intersted in marketplaces (Amazon & Walmart) while only ~28% are interested in e-commerce shopping. Out of a total of 11.60M incoming referral links to the site ~87% are news and media, white ~4% is computers electronics sites (Twitter, Facebook, Yahoo). 0.19% of incoming links are under Lifestyle, but 66% of those sites are Beauty and Cosmetics, ~30% is Fashion and Apparel. 0.01% are E-commerce and shopping referral links. Buzzfeeds outgoing links revolve around ~42% news and media, ~20% Computers and Electronics, ~14% E-commerce and shopping. ~2% of outgoing links lead to Lifestyle related sites, of that ~62% are Fashion and Apparel, ~24% of that is Beauty and Cosmetics.
+
+Business Insider:
+
+Business Insider is mostly a male audience (~63% vs. ~37%). Ages 25-54 make up ~63% of their audience. News, Computer Electronics and Tech, and Finance make up ~28% of the audience interest while ~67% is labeled "other". Under lifestyle, ~53% of the audience is interested in fashion and apparel, while ~23% is interested in Beauty and Cosmetics. Under Shopping most are intersted in marketplaces (Amazon & Walmart) while only ~24% are interested in coupon/rebates. Out of a total of 30.84M incoming referral links to the site ~67% are Search engines, while ~21% are news and media sites. 0.01% of incoming links are under Lifestyle, ~53% of those sites are Fashion and Apparel, ~27% is Gifts and Flowers, and ~14% are Beauty and Cosmetics. Shopping is only 0.02% of incoming links. Most outgoing links are either "other", "E-Commerce", or "COmputers Electronics". ~2 of those links are lifestyle related sites, half are Fashion and Apparel, while ~22 are Beauty and Cosmetics. 
+
+Good Morning America:
+
+Good Morning America is mostly a female audience (~60% vs. ~40%). Ages 25-54 make up ~72% of their audience. Audience Interest resonates around news and media (~19%), and Arts and Entertainment (~12%), while most is labeled other (~61%). Audiences Interested in lifestyle related content revolve around Fashion and apparel (~69%) and Beauty and Cosmetics (~20%). Incoming links are majority News and Media (~96%). Lifestyle related incoming links make up 0.06%, of that ~72% are labeled other, while ~20% are Beauty and Cosmetics. GMA does lead people to alot of Computer and Electronic sites (~24%) and Beauty and Cosmetics sites (~20%). Of the outgoing links related to Lifestyle majority are Beauty and Cosmetics (~97%). 
+
+Today.com:
+Today.com has ~18MM monthly visits, and ~13MM MUVs. Mostly a female audience (~58% vs. ~42%).
+
+
+
+
+
